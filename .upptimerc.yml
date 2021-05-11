@@ -5,6 +5,9 @@ repo: upptime # The name of this repository
 sites:
   - name: TechPhantoms website
     url: https://www.techphantoms.tech
+NOTIFICATION_DISCORD: true
+NOTIFICATION_DISCORD_WEBHOOK: true
+NOTIFICATION_DISCORD_WEBHOOK_URL: https://discord.com/api/webhooks/840847170064089100/1a_-HHoLr7xw-EBhWjrTG6Q_lgZdC1oMPg0g4JesTgqjDSwyLUw62wipRohn7RyeGzi_
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,6 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/Tech-Phantoms/Tech_Phantoms_website
+    
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
