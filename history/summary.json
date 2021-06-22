@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 237,
+    "time": 248,
+    "timeDay": 207,
     "timeWeek": 151,
-    "timeMonth": 220,
-    "timeYear": 250,
+    "timeMonth": 218,
+    "timeYear": 248,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "discord bot",
-    "url": "https://discodingo.herokuapp.com/wake",
-    "icon": "https://favicons.githubusercontent.com/discodingo.herokuapp.com",
-    "slug": "discord-bot",
-    "status": "down",
-    "uptime": "91.02%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "91.02%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "91.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-06-22": 0
-    }
   }
 ]
