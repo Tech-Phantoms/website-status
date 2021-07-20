@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 221,
-    "timeDay": 186,
-    "timeWeek": 169,
-    "timeMonth": 175,
-    "timeYear": 221,
+    "time": 226,
+    "timeDay": 641,
+    "timeWeek": 240,
+    "timeMonth": 191,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2021-07-12": 6
     }
