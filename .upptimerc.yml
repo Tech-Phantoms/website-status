@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/logo-750px.png
   name: Status Tech Phantoms
   introTitle: "**Tech Phantoms** is an open-source community which focuses on tech-hiring, awareness, UX design, and so much more."
-Tech Phantoms is an open source community run by awesome students and early careers from our community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, resume reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our Discord community and follow us on Twitter to stay tuned about new announcements, projects, and much more. 💥  introMessage:  
+  introMessage: "Tech Phantoms is an open source community run by awesome students and early careers from our community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, resume reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our Discord community and follow us on Twitter to stay tuned about new announcements, projects, and much more. 💥"  
   navbar:
     - title: Status
       href: /
