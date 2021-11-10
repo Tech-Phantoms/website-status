@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: TechPhantoms website
-    url: https://www.techphantoms.co
+    url: https://techphantoms.co
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
 NOTIFICATION_DISCORD_WEBHOOK_URL: https://discord.com/api/webhooks/907878980856741929/szU7PeQcr9rquoVC6uyT8bIhRj8BYfKVWw-Mgao-3mjmqnHTI5StjYqHwk6pWsL_PSOd
