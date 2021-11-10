@@ -13,10 +13,10 @@ NOTIFICATION_DISCORD_WEBHOOK_URL: https://discord.com/api/webhooks/9078789808567
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: techphantoms.co
+  cname: status.techphantoms.co
   baseUrl: /website-status
-  logoUrl: https://raw.githubusercontent.com/Tech-Phantoms/Tech-Phantoms/master/favicon.ico
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/logo-750px.png
+  name: Status Tech Phantoms
   introTitle: "**Tech Phantoms** is an open-source community which focuses on tech-hiring, awareness, UX design, and so much more."
   introMessage: "Tech Phantoms is an open tech organization and ❤ to build Open Source software applications. We are powered by one of the [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-US/profile/49532). We want to enable people to adapt and change technology according to their own ideas and needs and validate science and knowledge through an Open Access approach. It's launched by dedicated efforts of two undergraduate students and a fully functional core team. We also organize events, make mentoring sessions, and so much more."
   navbar:
