@@ -3,7 +3,7 @@ owner: Tech-Phantoms # Your GitHub organization or username, where this reposito
 repo: website-status # The name of this repository
 
 sites:
-  - name: TechPhantoms website
+  - name: Tech Phantoms website
     url: https://techphantoms.co
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
@@ -16,7 +16,7 @@ status-website:
   cname: status.techphantoms.co
   baseUrl: /website-status
   logoUrl: https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/logo-750px.png
-  name: Status Tech Phantoms
+  name: "Status for Tech Phantom's website"
   introTitle: "**Tech Phantoms** is an open-source community which focuses on tech-hiring, awareness, UX design, and so much more."
   introMessage: "Tech Phantoms is an open source community run by awesome students and early careers from our community. We hang out to share our knowledge and to build cool projects. We help each other with our doubts and also run community calls, resume reviews, and much more 🚀 Come hang out with us and let's make open source a better place 🔥 Join to our Discord community and follow us on Twitter to stay tuned about new announcements, projects, and much more. 💥"  
   navbar:
