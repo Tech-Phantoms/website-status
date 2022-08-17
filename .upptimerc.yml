@@ -13,18 +13,20 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.techphantoms.co
+  cname: https://status.techphantoms.co
   # baseUrl: /website-status
   logoUrl: https://avatars.githubusercontent.com/u/61622105?s=100&v=4
-  name: "Status for Tech Phantoms' website"
+  name: "Tech Phantoms status"
   theme: night
-  introTitle: "**Tech Phantoms** website monitoring."
-  introMessage: "Powered by Upptime. Check our website: https://techphantoms.co"  
+  introTitle: "**Tech Phantoms** open-source website monitoring."
+  introMessage: "Powered by [Upptime](https://upptime.js.org/). Check our website: https://techphantoms.co"  
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/Tech-Phantoms/
+    - title: Website
+      href: https://techphantoms.co
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
