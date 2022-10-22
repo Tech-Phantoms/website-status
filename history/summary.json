@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/techphantoms.co.ico",
     "slug": "tech-phantoms-website",
     "status": "up",
-    "uptime": "95.83%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.24%",
+    "uptimeYear": "94.52%",
     "time": 500,
-    "timeDay": 144,
-    "timeWeek": 132,
-    "timeMonth": 113,
-    "timeYear": 613,
+    "timeDay": 56,
+    "timeWeek": 119,
+    "timeMonth": 111,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2022-09-15": 49,
       "2022-09-09": 29,
@@ -48,8 +48,7 @@
       "2021-10-26": 1440,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
-      "2021-10-23": 1440,
-      "2021-10-22": 1440
+      "2021-10-23": 1440
     }
   }
 ]
