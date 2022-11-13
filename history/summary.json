@@ -4,8 +4,8 @@
     "url": "https://techphantoms.co",
     "icon": "https://icons.duckduckgo.com/ip3/techphantoms.co.ico",
     "slug": "tech-phantoms-website",
-    "status": "up",
-    "uptime": "96.00%",
+    "status": "down",
+    "uptime": "96.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 119,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2022-11-13": 0,
       "2022-09-15": 49,
       "2022-09-09": 29,
       "2022-09-07": 23,
